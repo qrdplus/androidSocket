@@ -1,2 +1,4 @@
 # androidSocket
 android socket 
+
+modify
